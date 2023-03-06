@@ -11,4 +11,4 @@ connecte o vscode no container jupyter<br/>
 
 * depois vá para:<br/>[main jupyter notebook](app/recomendation_system.ipynb)<br/><br/>
 
-o notebook está na pata /app/app/get_data.ipynb
+o notebook está na pata /energisa/app/app/get_data.ipynb
