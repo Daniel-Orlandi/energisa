@@ -1,10 +1,14 @@
 # energisa
 Teste energisa
 
-Para executar o projeto, é necessário ter o docker e o docker-compose instalados.
+## How to run this project ?
+* é necessário ter o docker e o docker-compose instalados.<br/>
+* Na raiz do projeto execute:<br/>
+```
+docker-compose up
+```
+connecte o vscode no container jupyter<br/>
 
-Na raiz do projeto execute docker-compose up
+* depois vá para:<br/>[main jupyter notebook](app/recomendation_system.ipynb)<br/><br/>
 
-connecte o vscode no container jupyter 
-
-o notebook está na pata /usr/src/app/get_data.ipynb
+o notebook está na pata /app/app/get_data.ipynb
