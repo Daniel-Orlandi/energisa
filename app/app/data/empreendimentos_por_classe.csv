@@ -1,0 +1,32 @@
+DscClasseConsumo,SigUF,Número de empreendimentos
+Comercial,AC,508
+Comercial,AL,2484
+Comercial,AM,976
+Comercial,AP,207
+Comercial,BA,502
+Iluminação pública,BA,1
+Industrial,AC,16
+Industrial,AL,121
+Industrial,AM,67
+Industrial,AP,3
+Industrial,BA,40
+Poder Público,AC,10
+Poder Público,AL,70
+Poder Público,AM,16
+Poder Público,AP,21
+Poder Público,BA,19
+Residencial,AC,3212
+Residencial,AL,14056
+Residencial,AM,5582
+Residencial,AP,1973
+Residencial,BA,1439
+Residencial,SP,1
+Rural,AC,187
+Rural,AL,382
+Rural,AM,46
+Rural,AP,2
+Rural,BA,52
+Serviço Público,AC,1
+Serviço Público,AL,2
+Serviço Público,AP,1
+Serviço Público,BA,2
