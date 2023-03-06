@@ -11,4 +11,6 @@ connecte o vscode no container jupyter<br/>
 
 * depois vá para:<br/>[main jupyter notebook](/app/app/get_data.ipynb)<br/><br/>
 
+* os dados estão em:<br/>[dados](/app/app/data)<br/><br/>
+
 
