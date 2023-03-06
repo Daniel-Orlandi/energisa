@@ -9,6 +9,6 @@ docker-compose up
 ```
 connecte o vscode no container jupyter<br/>
 
-* depois vá para:<br/>[main jupyter notebook](app/recomendation_system.ipynb)<br/><br/>
+* depois vá para:<br/>[main jupyter notebook](/app/app/get_data.ipynb)<br/><br/>
 
-o notebook está na pata /energisa/app/app/get_data.ipynb
+
